@@ -401,19 +401,19 @@ h2 {
 .emailDetails{
     width: 350px;
     text-align: left;
-    padding-left: 18%;
+    padding-left: 28%;
     font-family: 'Product Sans',sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
+    margin-top: 30px;
 }
 
 .returnHome{
-    /* text-align: left; */
-    padding-left: 18%;
+    padding-left: 28%;
     color: #F2994A;
-    /* padding-bottom: 50px; */
     border: none;
     background-color: transparent;
-    margin-top: 30px;
+    margin-top: 38px;
+    margin-bottom: 99px;
 }
