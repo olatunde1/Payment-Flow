@@ -409,11 +409,11 @@ h2 {
 }
 
 .returnHome{
-    text-align: left;
+    /* text-align: left; */
     padding-left: 18%;
     color: #F2994A;
-    padding-bottom: 50px;
-}
-.returnHome:hover{
-    color: #F2994A;
+    /* padding-bottom: 50px; */
+    border: none;
+    background-color: transparent;
+    margin-top: 30px;
 }
