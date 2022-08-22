@@ -360,12 +360,12 @@ h2 {
 
 
 .totalRate{
-    height: 64px;
+    height: 42px;
     display: flex;
     justify-content: space-between;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-left: 2%;
-    padding-right: 5%;
+    padding-right: 3%;
     margin-top: 8%;
     margin-left: 5%;
     margin-right: 5%;
